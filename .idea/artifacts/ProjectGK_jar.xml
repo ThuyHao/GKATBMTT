@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjectGK:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectGK_jar</output-path>
+    <root id="archive" name="ProjectGK.jar">
+      <element id="module-output" name="ProjectGK" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.69/bcprov-jdk15on-1.69.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
